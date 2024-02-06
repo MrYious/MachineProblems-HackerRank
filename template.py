@@ -1,3 +1,6 @@
+import math
+import random
+
 # Function definitions
 def function1():
     pass
